@@ -1,3 +1,4 @@
+//Bradley McKee
 #include "customer.h"
 
 using namespace std;

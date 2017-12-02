@@ -1,3 +1,4 @@
+//Bradley McKee
 #include "hotel.h"
 
 using namespace std;
